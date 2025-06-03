@@ -1,0 +1,4 @@
+piper-tts==1.2.0
+fastapi==0.95.2
+uvicorn==0.22.0
+ffmpeg-python==0.2.0
